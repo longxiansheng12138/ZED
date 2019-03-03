@@ -1,0 +1,194 @@
+[02-Mar-2019 21:55:02 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 21:55:02 prc] PHP Warning:  file_get_contents() expects at least 1 parameter, 0 given in D:\PHP\bm\wx\wx.php on line 19
+[02-Mar-2019 21:55:35 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 21:55:37 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 21:55:37 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 21:55:38 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 21:55:38 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 21:55:38 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 21:55:38 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 21:59:11 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:13:52 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:13:53 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:21:51 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:22:01 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:22:02 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:22:02 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:23:33 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:23:41 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:23:42 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:23:42 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:23:42 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:23:42 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:23:42 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:27:55 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:28:05 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:28:06 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:28:06 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:28:06 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:28:06 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:29:10 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:29:17 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:29:18 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:29:18 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:29:24 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:30:51 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:31:32 prc] PHP Notice:  Undefined index: echostr in D:\PHP\bm\wx\wx.php on line 13
+[02-Mar-2019 23:51:50 prc] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in D:\PHP\bm\wx\wx.php on line 49
+[02-Mar-2019 23:52:31 prc] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in D:\PHP\bm\wx\wx.php on line 49
+[02-Mar-2019 23:54:15 prc] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in D:\PHP\bm\wx\wx.php on line 52
+[02-Mar-2019 23:56:13 prc] PHP Notice:  Trying to get property 'Content' of non-object in D:\PHP\bm\wx\wx.php on line 23
+[02-Mar-2019 23:56:13 prc] PHP Notice:  Trying to get property 'MsgType' of non-object in D:\PHP\bm\wx\wx.php on line 40
+[02-Mar-2019 23:56:23 prc] PHP Notice:  Trying to get property 'Content' of non-object in D:\PHP\bm\wx\wx.php on line 23
+[02-Mar-2019 23:56:23 prc] PHP Notice:  Trying to get property 'MsgType' of non-object in D:\PHP\bm\wx\wx.php on line 40
+[02-Mar-2019 23:56:23 prc] PHP Notice:  Trying to get property 'Content' of non-object in D:\PHP\bm\wx\wx.php on line 23
+[02-Mar-2019 23:56:23 prc] PHP Notice:  Trying to get property 'MsgType' of non-object in D:\PHP\bm\wx\wx.php on line 40
+[02-Mar-2019 23:56:23 prc] PHP Notice:  Trying to get property 'Content' of non-object in D:\PHP\bm\wx\wx.php on line 23
+[02-Mar-2019 23:56:23 prc] PHP Notice:  Trying to get property 'MsgType' of non-object in D:\PHP\bm\wx\wx.php on line 40
+[02-Mar-2019 23:56:23 prc] PHP Notice:  Trying to get property 'Content' of non-object in D:\PHP\bm\wx\wx.php on line 23
+[02-Mar-2019 23:56:23 prc] PHP Notice:  Trying to get property 'MsgType' of non-object in D:\PHP\bm\wx\wx.php on line 40
+[02-Mar-2019 23:56:24 prc] PHP Notice:  Trying to get property 'Content' of non-object in D:\PHP\bm\wx\wx.php on line 23
+[02-Mar-2019 23:56:24 prc] PHP Notice:  Trying to get property 'MsgType' of non-object in D:\PHP\bm\wx\wx.php on line 40
+[02-Mar-2019 23:56:24 prc] PHP Notice:  Trying to get property 'Content' of non-object in D:\PHP\bm\wx\wx.php on line 23
+[02-Mar-2019 23:56:24 prc] PHP Notice:  Trying to get property 'MsgType' of non-object in D:\PHP\bm\wx\wx.php on line 40
+[02-Mar-2019 23:56:24 prc] PHP Notice:  Trying to get property 'Content' of non-object in D:\PHP\bm\wx\wx.php on line 23
+[02-Mar-2019 23:56:24 prc] PHP Notice:  Trying to get property 'MsgType' of non-object in D:\PHP\bm\wx\wx.php on line 40
+[02-Mar-2019 23:56:24 prc] PHP Notice:  Trying to get property 'Content' of non-object in D:\PHP\bm\wx\wx.php on line 23
+[02-Mar-2019 23:56:24 prc] PHP Notice:  Trying to get property 'MsgType' of non-object in D:\PHP\bm\wx\wx.php on line 40
+[03-Mar-2019 00:01:48 prc] PHP Parse error:  syntax error, unexpected ';', expecting ']' in D:\PHP\bm\wx\config.php on line 9
+[03-Mar-2019 00:02:54 prc] PHP Parse error:  syntax error, unexpected ';', expecting ']' in D:\PHP\bm\wx\config.php on line 9
+[03-Mar-2019 00:03:25 prc] PHP Notice:  Trying to get property 'xml' of non-object in D:\PHP\bm\wx\wx.php on line 46
+[03-Mar-2019 00:13:59 prc] PHP Parse error:  syntax error, unexpected 'textFun' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in D:\PHP\bm\wx\wx.php on line 45
+[03-Mar-2019 00:18:44 prc] PHP Parse error:  syntax error, unexpected 'textFun' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in D:\PHP\bm\wx\wx.php on line 47
+[03-Mar-2019 00:19:34 prc] PHP Notice:  Undefined property: Wx::$textFun in D:\PHP\bm\wx\wx.php on line 44
+[03-Mar-2019 00:20:33 prc] PHP Notice:  Undefined property: Wx::$funName in D:\PHP\bm\wx\wx.php on line 44
+[03-Mar-2019 00:21:09 prc] PHP Notice:  Undefined property: Wx::$textFun in D:\PHP\bm\wx\wx.php on line 44
+[03-Mar-2019 00:23:47 prc] PHP Notice:  Undefined property: Wx::$textFun in D:\PHP\bm\wx\wx.php on line 41
+[03-Mar-2019 00:26:30 prc] PHP Notice:  Undefined property: Wx::$textFun in D:\PHP\bm\wx\wx.php on line 41
+[03-Mar-2019 00:35:28 prc] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Wx::writeLog() must be of the type string, array given, called in D:\PHP\bm\wx\wx.php on line 43 and defined in D:\PHP\bm\wx\wx.php:65
+Stack trace:
+#0 D:\PHP\bm\wx\wx.php(43): Wx->writeLog(Array)
+#1 D:\PHP\bm\wx\wx.php(24): Wx->acceptMesage()
+#2 D:\PHP\bm\wx\wx.php(3): Wx->__construct()
+#3 {main}
+  thrown in D:\PHP\bm\wx\wx.php on line 65
+[03-Mar-2019 00:37:36 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 69
+[03-Mar-2019 00:37:36 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 69
+[03-Mar-2019 00:45:03 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 87
+[03-Mar-2019 00:46:26 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 87
+[03-Mar-2019 00:47:49 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 90
+[03-Mar-2019 00:47:50 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 90
+[03-Mar-2019 00:47:50 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 90
+[03-Mar-2019 00:47:58 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 90
+[03-Mar-2019 00:48:00 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 90
+[03-Mar-2019 00:48:02 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 90
+[03-Mar-2019 00:48:09 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 90
+[03-Mar-2019 00:48:12 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 90
+[03-Mar-2019 00:48:42 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 90
+[03-Mar-2019 00:48:47 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 90
+[03-Mar-2019 00:49:05 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 90
+[03-Mar-2019 00:53:32 prc] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in D:\PHP\bm\wx\Language.php on line 22
+[03-Mar-2019 00:54:49 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 70
+[03-Mar-2019 00:56:49 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 70
+[03-Mar-2019 00:56:58 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 70
+[03-Mar-2019 00:57:08 prc] PHP Fatal error:  Uncaught Error: Call to undefined method Wx::imageFun() in D:\PHP\bm\wx\wx.php:41
+Stack trace:
+#0 D:\PHP\bm\wx\wx.php(24): Wx->acceptMesage()
+#1 D:\PHP\bm\wx\wx.php(3): Wx->__construct()
+#2 {main}
+  thrown in D:\PHP\bm\wx\wx.php on line 41
+[03-Mar-2019 01:01:11 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 74
+[03-Mar-2019 01:03:33 prc] PHP Notice:  Trying to get property 'MsgType' of non-object in D:\PHP\bm\wx\wx.php on line 34
+[03-Mar-2019 01:03:33 prc] PHP Fatal error:  Uncaught Error: Call to undefined method Wx::Fun() in D:\PHP\bm\wx\wx.php:41
+Stack trace:
+#0 D:\PHP\bm\wx\wx.php(24): Wx->acceptMesage()
+#1 D:\PHP\bm\wx\wx.php(3): Wx->__construct()
+#2 {main}
+  thrown in D:\PHP\bm\wx\wx.php on line 41
+[03-Mar-2019 01:17:26 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:17:31 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:17:33 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:17:40 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:19:20 prc] PHP Fatal error:  Uncaught Error: Call to undefined method Wx::textFun() in D:\PHP\bm\wx\wx.php:41
+Stack trace:
+#0 D:\PHP\bm\wx\wx.php(24): Wx->acceptMesage()
+#1 D:\PHP\bm\wx\wx.php(3): Wx->__construct()
+#2 {main}
+  thrown in D:\PHP\bm\wx\wx.php on line 41
+[03-Mar-2019 01:21:38 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:22:23 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:22:26 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:23:14 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:24:26 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:24:28 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:27:28 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:28:18 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:30:06 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:30:56 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:31:16 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:31:16 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:31:17 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:31:17 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:31:18 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:31:20 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:31:26 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:31:32 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 01:31:37 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 08:29:41 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 08:29:47 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 08:32:50 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 08:32:59 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 08:33:04 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 08:33:11 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 94
+[03-Mar-2019 08:56:10 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:06:56 prc] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting case (T_CASE) or default (T_DEFAULT) or '}' in D:\PHP\bm\wx\Language.php on line 5
+[03-Mar-2019 09:09:16 prc] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting case (T_CASE) or default (T_DEFAULT) or '}' in D:\PHP\bm\wx\Language.php on line 5
+[03-Mar-2019 09:15:59 prc] PHP Parse error:  syntax error, unexpected ':', expecting ']' in D:\PHP\bm\wx\LangArr.php on line 12
+[03-Mar-2019 09:17:40 prc] PHP Parse error:  syntax error, unexpected ':', expecting ']' in D:\PHP\bm\wx\LangArr.php on line 12
+[03-Mar-2019 09:18:10 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:19:01 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:19:44 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:20:51 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:20:55 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:36:12 prc] PHP Warning:  include(Zhaxi.php): failed to open stream: No such file or directory in D:\PHP\bm\wx\Language.php on line 3
+[03-Mar-2019 09:36:12 prc] PHP Warning:  include(): Failed opening 'Zhaxi.php' for inclusion (include_path='.;C:\php\pear') in D:\PHP\bm\wx\Language.php on line 3
+[03-Mar-2019 09:36:12 prc] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\bm\wx\Language.php on line 5
+[03-Mar-2019 09:36:12 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:36:41 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:36:46 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:36:51 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:36:59 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:37:36 prc] PHP Parse error:  syntax error, unexpected '，' (T_STRING), expecting ']' in D:\PHP\bm\wx\Zhaxin.php on line 24
+[03-Mar-2019 09:51:03 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:51:21 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 09:51:32 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:21 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:24 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:26 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:27 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:28 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:28 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:28 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:29 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:29 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:30 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:30 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:30 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:31 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:31 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:31 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:34 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:37 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:39 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:39 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:42 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:43 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:10:44 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 10:17:27 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 14:11:56 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 14:12:03 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 14:12:51 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 14:12:55 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 14:13:02 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 14:13:43 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
+[03-Mar-2019 14:13:47 prc] PHP Notice:  Undefined variable: flage in D:\PHP\bm\wx\wx.php on line 100
